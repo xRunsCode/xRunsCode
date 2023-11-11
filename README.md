@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @xRunsCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi its That IT Guy,
+<img align='right' src='https://c.tenor.com/4CPI9z1qIPAAAAAC/tokyo-ghoul-kaneki-ken.gif' width='200"'>
 
-<!---
-xRunsCode/xRunsCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/-Joy%20Ghosh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/0xjoyghosh/)](https://www.linkedin.com/in/0xjoyghosh/) [![Twitter Badge](http://img.shields.io/badge/-@0xjoyghosh-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/0xjoyghosh)](https://twitter.com/0xjoyghosh) [![Medium Badge](http://img.shields.io/badge/-@0xjoyghosh-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@0xjoyghosh)](https://medium.com/@0xjoyghosh)
+
+```yaml
+-Details:
+      -Name: That IT Guy
+      -Located_in: Dhaka,Bangladesh
+-
+
+```
